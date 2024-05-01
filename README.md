@@ -5,7 +5,7 @@ This is a full stack application which uses machinne learning and AI algorithms 
 How to run the code.
 
 ```bash
-git clone https://github.com/asifrahaman13/speaker-dnn
+git clone https://github.com/AnandPTi/Speaker-Verification-System.git
 ```
 
 Next create virtual envicornment and set up the environement for the backend.
