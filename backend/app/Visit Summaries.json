@@ -1,0 +1,16 @@
+{
+    "diagnosis": [
+        "Can you tell me what diagnoses the doctor gave the patient? Format- diagnosis: [list of diagnoses]"
+    ],
+    "medications": [
+        "List all the medications doctor prescribed for the patient.",
+        "For each medication, give detail instructions including the dosage, frequency, duration, indication if mentioned."
+    ],
+    "lifestyle_adjustments" : [
+        "Identify any specific changes the doctor suggested the patient make to their daily routine or habits.",
+        "Give details of the follow_up appointment discussed with the doctor."
+    ],
+    "followUp": [
+        "Give detailed information about of the follow-up appointment discussed with the doctor."
+    ]
+}

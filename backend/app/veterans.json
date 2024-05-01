@@ -1,0 +1,30 @@
+{
+    "subjective": [
+        "What is the patiends history of present illness? Include the symptom dimensions of PQRST - Provocation, Quality, Region, Severity, Time, and associated symptoms",
+        "Provide the detail review of the patient's system - Cardiovascular, Respiratory, Gastrointestinal, Genitourinary, Musculoskeletal, Integumentary, Neurological, Endocrine, Hematologic, Lymphatic, Immunologic, Psychiatric, and Allergic/Immunologic",
+        "What is the patient's past medical history? Include details of the patient's past illness, surgeries, hospitalizations, and any other medical conditions",
+        "What are the current medications of the patient? Include the dosage and frequency of the medications",
+        "Does patient have any allergies? If yes, what are the allergies and what are the reaction of the allergies?",
+        "What is the patient's family history? Include the details of the patient's family members and their medical conditions",
+        "What is the patient's social history? Include the details of the patient's occupation, living condition, and any other social habits"
+    ],
+    "objective": [
+        "What are the patient's vital signs? List them all - HeartRate, BloodPressure, Temperature, RespiratoryRate, OxygenSaturation",
+        "What are the patient's physical examination findings? Include the details of the patient's general appearance, skin, head, eyes, ears, nose, throat, neck, chest, lungs, heart, abdomen, extremities, and neurological system",
+        "What are the patient's laboratory results? Include the details of the patient's blood test, urine test, X-rays, and any other laboratory tests"
+    ],
+
+    "Assessment": [
+        "In one sentence, what is the doctor's assessment of the patient's condition?",
+        "List all the problmes faced by the patient.",
+        "For each problem, provide the detailed description for it. Include the details of the problem, the cause of the problem, and the severity of the problem",
+        "What are the differnt diagnosis for the patient? List them all"
+    ],
+    "Plan": [
+        "With the help of the doctor's diagnosis, what plan is recommended for the patient, including the medications, procedures, tests, consultations?",
+        "What's patient's education plan? Include the details of the patient's education plan, and the patient's understanding of the plan",
+        "What Pharmacotherapy is recommended for the patient? Include the details of the medication, dosage, frequency, and duration of the medication",
+        "What are the other Therapeutic Procedures recommended for the patient? Include the details of the procedure, and the duration of the procedure",
+        "What are the follow-up plans for the patient?"
+    ]
+}
