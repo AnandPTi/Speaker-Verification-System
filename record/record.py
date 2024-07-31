@@ -1,5 +1,6 @@
 import os
 import wave
+#library for dealing audio files
 import pyaudio
 import warnings
 import numpy as np
