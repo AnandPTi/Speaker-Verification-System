@@ -26,3 +26,4 @@ cd frontend/
 bun install
 bun run dev
 ```
+![Result & UI](image.png)
